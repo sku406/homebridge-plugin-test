@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "TestHomebridgePlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
