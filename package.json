@@ -2,7 +2,7 @@
   "private": true,
   "displayName": "Test Plugin",
   "name": "homebridge-test-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a test plugin.",
   "license": "Apache-2.0",
   "repository": {
